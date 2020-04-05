@@ -1,0 +1,13 @@
+setuptools
+future
+os
+re
+argparse
+functools
+logging
+json
+sys
+pip
+subprocess
+packaging
+urllib
